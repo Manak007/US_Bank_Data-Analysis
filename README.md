@@ -229,5 +229,5 @@ jupyter notebook notebooks/bank_data_eda.ipynb
 ---
 
 ##  Credits
-- **Maintained by:** Manavi Singh
+- **Maintained by:** Manak Singh
 - **Data:** [Federal Deposit Insurance Corporation (FDIC)](https://www.fdic.gov/bank-data-guide/data-downloads)
