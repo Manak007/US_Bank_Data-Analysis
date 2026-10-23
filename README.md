@@ -228,8 +228,6 @@ jupyter notebook notebooks/bank_data_eda.ipynb
 
 ---
 
-## 🙏 Credits
-
-- **Original author:** [Mariia Voronina](https://github.com/marivrnina), who created the analysis, notebook and findings ([original repository](https://github.com/marivrnina/us-bank-financial-performance-analysis)).
+##  Credits
 - **Maintained by:** Manavi Singh
 - **Data:** [Federal Deposit Insurance Corporation (FDIC)](https://www.fdic.gov/bank-data-guide/data-downloads)
